@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JUnit-test**
 
-- 👨‍💻 All of my projects are available at [https://web.telegram.org/a/](https://web.telegram.org/a/)
+- 👨‍💻 All of my projects are available at [https://web.telegram.org/a/](https://web.telegram.org/aidaiyushka)
 
 - 📫 How to reach me **izumisoft1@mail.ru**
 
