@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+</div>
+<div id="header" align="center">
+  <img src="https://phonoteka.org/uploads/posts/2022-02/1644403131_15-phonoteka-org-p-fon-kod-programmirovaniya-20.jpg"/>
 </div>
 <h1 align="center">Hi 👋, I'm Aidai</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
